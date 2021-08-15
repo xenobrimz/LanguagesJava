@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LanguagesApplication<languages>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.codingdojo.languages.languages.LanguagesApplication",
+            "projectName": "languages",
+            "args": ""
+        }
+    ]
+}
